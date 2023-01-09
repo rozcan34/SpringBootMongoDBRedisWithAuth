@@ -6,7 +6,7 @@ Some deprecated methods comes with Spring Boot new version are also fixed.
 
 You should update application properties file content with your own information.
 
-The project supports 3 types of Authentication as ADMIN, FIRM and USER roles. 
+The project supports 3 types of Authentication as ADMIN, FIRM and USER roles and some test APIs are implemented. 
 
 You could configure APIs with these roles when creating them.
 
