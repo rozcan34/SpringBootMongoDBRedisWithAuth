@@ -2,7 +2,7 @@
 
 Spring Boot (3.0.1), Java (17.0.4.1), lombok, modelMapper, mongoDB and Redis are used in this sample.
 
-Some deprecated methods comes with Spring Boot new version are also fixed.
+Some deprecated methods come with Spring Boot new version are also fixed.
 
 You should update application properties file content with your own information.
 
